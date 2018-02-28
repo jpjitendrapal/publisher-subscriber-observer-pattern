@@ -1,0 +1,28 @@
+html {
+  background-color: #0079BF;
+}
+
+body, button, html, input, select, textarea {
+  color: #4d4d4d;
+  font: 14px "Helvetica Neue",Helvetica,sans-serif;
+  line-height: 20px;
+}
+.logo{
+  width: 380px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 30px;
+  margin: 0 auto;
+  color: white;
+}
+.navigation-bar{
+  background: #026aa7;
+  color: white;
+  font-family: "Times New Roman", Georgia, Serif;
+  line-height: 60px;
+  font-size: 50px;
+  text-align: center;
+  overflow: hidden;
+  padding: 5px;
+  z-index: 10;
+}
